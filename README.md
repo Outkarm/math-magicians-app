@@ -1,4 +1,4 @@
-<a name="readme-top"></a>
+<a name="readme-top">Math Magician App</a>
 
 <!--
 HOW TO USE:
@@ -201,21 +201,16 @@ Example:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Authors <a name="authors">John Kpordje</a>
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Authors**
+Outkarm Johnson
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [Outkarm](https://github.com/Outkarm)
+- GitHub: [Outkarm](https://github.com/Outkarm)
+- LinkedIn: [John Kpordje](https://www.linkedin.com/in/john-kpordje-866749241/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
