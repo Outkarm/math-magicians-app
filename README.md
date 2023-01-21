@@ -205,10 +205,8 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Authors**
-Outkarm Johnson
+👤 **Outkarm Johnson**
 
-- GitHub: [Outkarm](https://github.com/Outkarm)
 - GitHub: [Outkarm](https://github.com/Outkarm)
 - LinkedIn: [John Kpordje](https://www.linkedin.com/in/john-kpordje-866749241/)
 
