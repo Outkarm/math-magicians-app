@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.calculator {
+  height: 200px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  background-color: azure;
+}
+
+.ans {
+  text-align: right;
+  background-color: darkgrey;
+  color: azure;
+  padding: 10px 4px;
+}
+
+.control-sec {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1px;
+  height: 100%;
+  justify-content: center;
+}
+
+.cBtn {
+  width: 24.7%;
+  text-align: center;
+  height: 24%;
+  background-color: rgb(209, 209, 209);
+  padding: 20px 10px;
+}
+
+.zero {
+  width: 49.499999%;
+}
+
+.or {
+  background-color: rgb(255, 158, 48);
+}
