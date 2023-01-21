@@ -64,9 +64,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**Math Magician App** is a calculator app that peforms all basic calculator functions
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With <a name="built-with">React</a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -99,9 +99,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **ADD and Subtract**
+- **Multiply**
+- **Divide**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
