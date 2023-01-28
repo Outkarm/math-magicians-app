@@ -31,9 +31,9 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖Bookstore App <a name="about-project"></a>
+# 📖Math Magician App <a name="about-project"></a>
 
-**Bookstore App** is a calculator app that peforms all basic calculator functions
+**Math Magician App** is a calculator app that peforms all basic calculator functions
 
 ## 🛠 Built With <a name="built-with">React</a>
 
