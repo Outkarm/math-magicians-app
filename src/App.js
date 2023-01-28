@@ -24,8 +24,8 @@ function App() {
             <Link to="/Calculator"> Calculator </Link>
           </div>
         </div>
-
         <Routes>
+          <Route path="/" element={<Home />} />
           <Route path="/Home" element={<Home />} />
           <Route path="/Quotes" element={<Quotes />} />
           <Route path="/Calculator" element={<Section />} />
