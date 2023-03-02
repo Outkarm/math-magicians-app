@@ -1,6 +1,6 @@
 <a name="readme-top">Math Magician App</a>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Math Magician App</b></h3>
 
 </div>
 
@@ -65,7 +65,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://calculator-26hg.onrender.com/Home)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
