@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.cal-sec {
+  display: flex;
+  height: 70%;
+  padding: 20px 100px;
+  justify-content: space-between;
+}
+
+.homepage {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
